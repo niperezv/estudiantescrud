@@ -1,0 +1,11 @@
+{
+    "correo_ins":"niperezv@unal.edu.co",
+    "apellido":"perez",
+    "facultad":"minas",
+    "nombre":"nicolas",
+    "numero_de_documento":1000893892,
+    "programa":"ing de sistemas",
+    "sede":"medellin",
+    "tipo_de_documento":"cc",
+    "vinculo":"regular"
+}
